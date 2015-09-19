@@ -5,3 +5,6 @@ rvm:
 
 os:
   - linux
+
+install:
+  - bundle install
